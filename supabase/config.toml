@@ -1,0 +1,4 @@
+project_id = "kjimcfmcbewbzunejeok"
+
+[functions.send-contact-notification]
+verify_jwt = false
